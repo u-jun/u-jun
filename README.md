@@ -1,16 +1,16 @@
-### Hi there 👋
+# u-jun's Profile
 
-<!--
-**u-jun/u-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
 
-Here are some ideas to get you started:
+- ### GitHub
+<p align="left"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-jun&layout=compact&count_private=true&show_icons=true&theme=merko" />
+    <img alt="github stats" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=u-jun&count_private=true&show_icons=true&theme=merko" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img alt="github stats" height="215px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-jun&count_private=true&show_icons=true&theme=onedark" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=u-jun&count_private=true&theme=alduin&column=8)](https://github.com/ryo-ma/github-profile-trophy)
