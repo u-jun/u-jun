@@ -14,3 +14,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=u-jun&count_private=true&theme=alduin&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/engineer_egg00)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/maki9642)
